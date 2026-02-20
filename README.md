@@ -1,5 +1,13 @@
 # K-Nearest Neighbors (KNN) Classification – Analysis
 
+## Objective: Understand and implement KNN for classification problems.
+
+---
+
+## Tools: Scikit-learn, Pandas, Matplotlib
+
+---
+
 ## 📌 Step 1: Dataset Selection and Normalization
 The Iris dataset was used for classification.  
 Features were normalized using StandardScaler because KNN relies on distance calculations.
